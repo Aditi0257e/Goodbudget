@@ -1,1 +1,1 @@
-# Finefy-Backend
+# Good Budget
